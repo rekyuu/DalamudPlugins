@@ -4,8 +4,8 @@
     "Name": "Stanley Parable XIV",
     "Description": "Witty commentary to the brilliant things you do.",
     "InternalName": "StanleyParableXiv",
-    "AssemblyVersion": "3.3.0.0",
-    "TestingAssemblyVersion": "3.3.0.0",
+    "AssemblyVersion": "4.0.0.0",
+    "TestingAssemblyVersion": "4.0.0.0",
     "RepoUrl": "https://github.com/rekyuu/StanleyParableXiv",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
@@ -16,9 +16,9 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/rekyuu/StanleyParableXiv/releases/download/3.3.0.0/StanleyParableXiv.zip",
-    "DownloadLinkTesting": "https://github.com/rekyuu/StanleyParableXiv/releases/download/3.3.0.0/StanleyParableXiv.zip",
-    "DownloadLinkUpdate": "https://github.com/rekyuu/StanleyParableXiv/releases/download/3.3.0.0/StanleyParableXiv.zip",
+    "DownloadLinkInstall": "https://github.com/rekyuu/StanleyParableXiv/releases/download/4.0.0.0/StanleyParableXiv.zip",
+    "DownloadLinkTesting": "https://github.com/rekyuu/StanleyParableXiv/releases/download/4.0.0.0/StanleyParableXiv.zip",
+    "DownloadLinkUpdate": "https://github.com/rekyuu/StanleyParableXiv/releases/download/4.0.0.0/StanleyParableXiv.zip",
     "IconUrl": "https://raw.githubusercontent.com/rekyuu/StanleyParableXiv/main/images/icon.png"
   }
 ]
